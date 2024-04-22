@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '50189'
     url: http://www.gutenberg.org/2009/agents/50189
     wikipedia: https://en.wikipedia.org/wiki/Walter_Damrosch
+covers:
+- cover_type: archival
+  image_path: 73211-h/images/cover.jpg
 creator:
   author:
     agent_name: Stoessel, Albert
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56987
     wikipedia: https://en.wikipedia.org/wiki/Albert_Stoessel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73211#The-technic-of-the-baton-b-a-handbook-for-students-of-conducting
 gutenberg_issued: '2024-03-20'
 gutenberg_type: Text
 identifiers:
